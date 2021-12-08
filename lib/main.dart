@@ -41,7 +41,7 @@ class _MainPageState extends State<MainPage> {
         ],
         children: [
           SortablePage(),
-          Container(),
+          SortablePage(),
           Container(),
         ],
       );
